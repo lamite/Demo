@@ -1,0 +1,26 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb][Ii][Nn]/
+[Oo][Bb][Jj]/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docobj
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# OS files
+Thumbs.db
+.DS_Store
